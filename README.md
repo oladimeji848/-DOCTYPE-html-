@@ -2,7 +2,7 @@
 &lt;html> &lt;head>     &lt;title>My Profile Page&lt;/title> &lt;/head> &lt;body>
 <h1>Iyanu Oladimeji</h1>
 
-<img src="profile.jpg" alt="My Photo" width="200">
+<img src="mypic" alt="My Photo" width="200">
 
 <h2>About Me</h2>
 <p>
