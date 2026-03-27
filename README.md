@@ -14,7 +14,7 @@
 <ul>
     <li>HTML</li>
     <li>Teamwork</li>
-    <li>Problem Solving</li>
+    <li>creator</li>
 </ul>
 
 <h2>Contact</h2>
