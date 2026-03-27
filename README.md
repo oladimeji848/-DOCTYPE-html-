@@ -7,7 +7,7 @@
 <h2>About Me</h2>
 <p>
     I am a student learning HTML and web development. 
-    I am passionate about building and construction and technology.
+    I am passionate about building construction and technology.
 </p>
 
 <h2>Skills</h2>
